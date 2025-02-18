@@ -13,11 +13,7 @@ The technologies we used for this project were
 * Scss
 * NPM Package Manager
 
-
 ## Structure and Components
-
-Identify your project’s 3-5 main components. What is their role?
-How are they correlated? Reference the main class, file, or function in the README text with a link.
 
 Our project is structured into a few main components. These regulate and ensure the correct playing of games and functionality of Wombo Combo.
 These are the following:
